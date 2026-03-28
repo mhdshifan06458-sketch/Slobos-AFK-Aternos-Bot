@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "afkbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "volcano__smp.aternos.me:32705",
+    "ip": "volcano__smp.aternos.me",
     "port": 32705,
     "version": "",
     "try-creative": false
