@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "volcano__smp.aternos.me",
+    "ip": "volcano__smp.aternos.me:32705",
     "port": 32705,
     "version": "",
     "try-creative": false
